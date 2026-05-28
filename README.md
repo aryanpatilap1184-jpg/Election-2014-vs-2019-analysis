@@ -1,6 +1,6 @@
 # Power BI Project — Mumbai City Total Electors 2024
 
-
+[Election Dashboard](https://raw.githubusercontent.com/aryanpatilap1184-jpg/Election-2014-vs-2019-analysis/main/dashboard%20(1).png)
 
 This repository contains an interactive analytics solution built using **Power BI**, focused on analyzing the total number of electors in Mumbai City for the year 2024. 
 Explore all my dashboards, project details, and visual work in one place.
